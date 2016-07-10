@@ -3,6 +3,10 @@ body {
 
 }
 
+p {
+    padding: 0px 50px;
+}
+
 .page-header {
   color: #fff;
   text-align: center;
