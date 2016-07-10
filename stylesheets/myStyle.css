@@ -9,6 +9,12 @@ p {
     color: #155799;
 }
 
+pBA {
+    font-family: Verdana, Arial;
+    font-size: 20px;
+    color: #770066;
+}
+
 .page-headerBA {
   color: #fff;
   text-align: center;
