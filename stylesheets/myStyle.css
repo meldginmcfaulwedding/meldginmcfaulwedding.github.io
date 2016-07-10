@@ -43,3 +43,11 @@ a:visited {
 a:hover {
     color: #155799;
 }
+
+table {
+    width: 100%;
+}
+
+th {
+    text-align: center;
+}
