@@ -30,13 +30,12 @@ p {
 }
 
 .main-content img {
-  max-width: 60%; }
+  max-width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
   
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-
 a {
     font-family: Verdana, Arial;
     text-decoration: none;
