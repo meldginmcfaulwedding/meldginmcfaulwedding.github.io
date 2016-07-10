@@ -45,6 +45,7 @@ a:hover {
 }
 
 table {
+    border-collapse: collapse;
     width: 100%;
 }
 
