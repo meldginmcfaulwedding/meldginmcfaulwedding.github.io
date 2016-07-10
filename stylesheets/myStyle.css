@@ -25,6 +25,9 @@ body {
   padding-bottom: 40px;
 }
 
+.main-content img {
+  max-width: 100%; }
+
 a {
     font-family: Verdana, Arial;
     text-decoration: none;
