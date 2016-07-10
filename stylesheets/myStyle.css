@@ -31,12 +31,12 @@ a {
 }
 
 a:link {
-    color: #159957;
+    color: #6599FF;
 }
 
 /* visited link */
 a:visited {
-    color: #159957;
+    color: #6599FF;
 }
 
 /* mouse over link */
