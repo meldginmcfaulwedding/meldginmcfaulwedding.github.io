@@ -27,4 +27,19 @@ body {
 
 a {
     font-family: Verdana, Arial;
+    text-decoration: none;
+}
+
+a:link {
+    color: #159957;
+}
+
+/* visited link */
+a:visited {
+    color: #159957;
+}
+
+/* mouse over link */
+a:hover {
+    color: #155799;
 }
