@@ -55,6 +55,7 @@ pBA {
 a {
     font-family: Verdana, Arial;
     text-decoration: none;
+    font-size: 20px;
 }
 
 a:link {
